@@ -1,6 +1,8 @@
 # QRadarServiceCheck
 Control all services of your QRadar services with a command.
  
+ Usage: python serviceCheck.py
+ 
  An advice: You can create an alias for running this script like just run 'servicecheck'
 
  Running on Console
