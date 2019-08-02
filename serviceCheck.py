@@ -13,7 +13,7 @@ bold='\x1b[01m'
 resetColor = "\x1b[0m"
 exactServices = ['hostcontext', 'hostservices']
 
-# Check is host console?
+# Check, Is host console?
 def isConsole():
     checkConsole = subprocess.check_output("/opt/qradar/bin/myver -c", shell=True).strip("\n")
     if  checkConsole == "true":
