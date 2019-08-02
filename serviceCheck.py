@@ -11,6 +11,8 @@ green = "\x1b[1;32;40m"
 red = "\x1b[1;31;40m"
 bold='\x1b[01m'
 resetColor = "\x1b[0m"
+
+# You can add any services to in below list.
 exactServices = ['hostcontext', 'hostservices']
 
 # Check, Is host console?
