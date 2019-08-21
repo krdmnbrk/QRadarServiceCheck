@@ -1,5 +1,5 @@
 # -*-  coding: utf-8 -*-
-# Author: Burak Karaduman <burak.karaduman@kocsistem.com.tr>
+# Author: Burak Karaduman <burakkaradumann@gmail.com>
 # Usage: python serviceCheck.py
 
 import re
